@@ -1,3 +1,6 @@
 Hello Jarvis
 I have written this using vi/vim/nano command
 Then I can see the content using cat command
+feature1
+
+Final Merge main
