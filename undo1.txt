@@ -1,0 +1,5 @@
+reset
+restore
+remove
+revert
+reflog
